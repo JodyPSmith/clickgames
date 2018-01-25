@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    min-height: 100vh;
+
+ 
+    background-image: -webkit-radial-gradient(top, circle cover, #97d0e1, #427388 80%);
+
+  }
+
+#gameArea {
+    color : red;
+    font-size : large;
+}
+
+.buttons {
+    position : absolute;
+    color : white;
+    border: none;
+    background-color: #FF26FF;
+    border-radius: 12px;
+    padding: 10px;
+    min-width : 100px;
+}
